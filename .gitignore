@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/node,sublimetext,windows,macos,sass
-
+# archivos que debe ignorar
+archivo1.txt
+archivo2.txt
 ### macOS ###
 # General
 .DS_Store
